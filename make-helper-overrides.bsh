@@ -14,3 +14,4 @@ genmkfile_lintian_post_opts+=" --suppress-tags arch-independent-package-contains
 genmkfile_lintian_post_opts+=" --suppress-tags binary-has-unneeded-section"
 genmkfile_lintian_post_opts+=" --suppress-tags missing-depends-line"
 genmkfile_lintian_post_opts+=" --suppress-tags desktop-entry-lacks-keywords-entry"
+genmkfile_lintian_post_opts+=" --suppress-tags missing-dependency-on-libc"
