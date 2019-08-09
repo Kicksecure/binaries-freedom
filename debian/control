@@ -13,7 +13,7 @@ Standards-Version: 4.3.0
 
 Package: binaries-freedom
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: fuse, ${shlibs:Depends}, ${misc:Depends}
 Description: Freedom Software Binaries
  Currently only contains the electrum appimage.
  .
