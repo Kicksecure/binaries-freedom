@@ -1,11 +1,11 @@
-commit 6868571826e6c4dca3ffba32456c3b069cfb9096
+commit 11e85bed2f56fe1d964125c6e5351222546922ac
 Author: Patrick Schleizer <adrelanos@riseup.net>
-Date:   Fri Aug 9 09:05:46 2019 +0000
+Date:   Fri Aug 9 09:38:28 2019 +0000
 
-    .
+    readme
 
-commit 553e13a7baa368e51bcb37fcd13991c2a9b781cf
+commit 0147ed7575f66a8b3a3a1457c39b589e879951a4
 Author: Patrick Schleizer <adrelanos@riseup.net>
-Date:   Fri Aug 9 09:02:28 2019 +0000
+Date:   Fri Aug 9 09:33:30 2019 +0000
 
     initial implementation
