@@ -1,3 +1,15 @@
+commit 63a97652be56c13ce74ec8d6a9fa804c38eb2375
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 9 10:15:17 2019 +0000
+
+    genmkfile_lintian_post_opts+=" --suppress-tags missing-dependency-on-libc"
+
+commit 69b23bba7c3919ab66c4a24af6ad4a657d94dcef
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 9 10:06:20 2019 +0000
+
+    bumped changelog version
+
 commit 426a444cdcacdb30350a262a50f9e2524b54165e
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Aug 9 10:05:39 2019 +0000
