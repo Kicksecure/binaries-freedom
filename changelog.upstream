@@ -1,3 +1,21 @@
+commit 426a444cdcacdb30350a262a50f9e2524b54165e
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 9 10:05:39 2019 +0000
+
+    depend on fuse since appimage requires this
+
+commit 715ea601713fc7a0bec1c778eba09853fe90862d
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 9 10:05:22 2019 +0000
+
+    cleanup
+
+commit b5ba4d916b83129286aa11c3187aa1d6ff8a8de2
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Fri Aug 9 09:38:45 2019 +0000
+
+    bumped changelog version
+
 commit 11e85bed2f56fe1d964125c6e5351222546922ac
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Aug 9 09:38:28 2019 +0000
