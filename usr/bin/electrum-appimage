@@ -1,0 +1,21 @@
+#!/bin/bash
+
+## Copyright (C) 2019 - 2019 ENCRYPTED SUPPORT LP <adrelanos@riseup.net>
+## See the file COPYING for copying conditions.
+
+set -e
+
+if [ -f /usr/lib/helper-scripts/pre.bsh ]; then
+   source /usr/lib/helper-scripts/pre.bsh
+fi
+
+shopt -s nullglob
+for file_name in /usr/share/binaries-freedom/electrum-appimage/* ; do
+   if test -x "$file_name" ; then
+      "$file_name" "$@"
+      exit "$?"
+   fi
+done
+
+echo "$0 (by package third-party package binaries-freedom): No executable found in folder /usr/share/binaries-freedom/electrum-appimage!" >&2
+exit 1
