@@ -1,3 +1,9 @@
+binaries-freedom (0:1.0-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@riseup.net>  Wed, 05 Aug 2020 13:41:58 +0000
+
 binaries-freedom (0:0.9-1) unstable; urgency=medium
 
   * New upstream version (local package).
