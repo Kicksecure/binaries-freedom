@@ -1,3 +1,15 @@
+commit 4b911bc5cf7419872e06ff7bb69d1f2e2df0aacf
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 14 06:37:34 2020 -0400
+
+    chmod +x usr/share/binaries-freedom/electrum-appimage/electrum-4.0.3-x86_64.AppImage
+
+commit baa9bf8eb7df4507c316cd554ddfc1e07d59d62b
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Mon Sep 14 05:41:10 2020 -0400
+
+    bumped changelog version
+
 commit 162c7565803ba73678b460725478f073a09db83f
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Mon Sep 14 05:20:28 2020 -0400
