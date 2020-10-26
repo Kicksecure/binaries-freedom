@@ -7,7 +7,7 @@ https://forums.whonix.org/t/policy-for-inclusion-of-compiled-software/6635
 This package is produces independently of electrum.
 ## How to install `binaries-freedom` using apt-get ##
 
-1\. Download [Whonix's Signing Key]().
+1\. Download Whonix's Signing Key.
 
 ```
 wget https://www.whonix.org/patrick.asc
