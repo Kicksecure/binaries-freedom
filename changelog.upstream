@@ -1,3 +1,15 @@
+commit c2a55f5cab76339d0bd09a1064e011025a92193c
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Tue Dec 15 14:09:08 2020 -0500
+
+    electrum-4.0.5-x86_64.AppImage
+
+commit f61522fa4e3c2679ae6b4ee5356c7aaf9387a253
+Author: Patrick Schleizer <adrelanos@riseup.net>
+Date:   Sat Nov 28 06:01:33 2020 -0500
+
+    bumped changelog version
+
 commit c30900cf67df64189e77614b02bf45c18ac2e53a
 Author: Patrick Schleizer <adrelanos@riseup.net>
 Date:   Fri Nov 27 04:20:58 2020 -0500
