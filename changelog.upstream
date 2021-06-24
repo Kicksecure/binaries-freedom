@@ -1,3 +1,67 @@
+commit f8fdbd1aedc8b2db0561d65b3512e32a6fe7b8bc
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 24 15:44:58 2021 -0400
+
+    chmod +x electrum-4.1.4-x86_64.AppImage
+
+commit 368a6667fb8c4d162cfeb20bcd5b91d6a02d29f8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 24 15:42:40 2021 -0400
+
+    add ThomasV signing key
+    
+    https://web.archive.org/web/20210507154110/https://raw.githubusercontent.com/spesmilo/electrum/master/pubkeys/ThomasV.asc
+    
+    https://web.archive.org/web/20210624193601/https://electrum.org/
+    
+    gpg --keyid-format long --import --import-options show-only --with-fingerprint ThomasV.asc
+    
+    ```
+    pub   rsa4096/2BD5824B7F9470E6 2011-06-15 [SC]
+          Key fingerprint = 6694 D8DE 7BE8 EE56 31BE  D950 2BD5 824B 7F94 70E6
+    uid                            Thomas Voegtlin (https://electrum.org) <thomasv@electrum.org>
+    uid                            ThomasV <thomasv1@gmx.de>
+    uid                            Thomas Voegtlin <thomasv1@gmx.de>
+    sub   rsa4096/1A25C4602021CD84 2011-06-15 [E
+    ```
+
+commit 6e7ef0e7468f03a99fb32c0a5aefb4c7016ed404
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 24 15:33:51 2021 -0400
+
+    add SomberNight signing key
+    
+    https://web.archive.org/web/20210624193503/https://raw.githubusercontent.com/spesmilo/electrum/master/pubkeys/sombernight_releasekey.asc
+    
+    https://web.archive.org/web/20210624193601/https://electrum.org/
+    
+    gpg --keyid-format long --import --import-options show-only --with-fingerprint sombernight_releasekey.asc
+    
+    ```
+    gpg: key CA9EEEC43DF911DC: 1 signature not checked due to a missing key
+    pub   rsa4096/CA9EEEC43DF911DC 2021-06-15 [SC]
+          Key fingerprint = 0EED CFD5 CAFB 4590 6734  9B23 CA9E EEC4 3DF9 11DC
+    uid                            SomberNight/ghost43 (Electrum RELEASE signing key) <somber.night@protonmail.com>
+    ```
+
+commit c5905a63a1934db3a7fe628dc2f69092e2f539f9
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 24 15:33:20 2021 -0400
+
+    electrum-4.1.4-x86_64.AppImage
+
+commit a882bfe3205ff4edcb5c8bd81df7a221f3d9e099
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 24 15:28:41 2021 -0400
+
+    delete for upcoming update
+
+commit 17ce8ba5c0f506846d282ddc962d79624d16b8d8
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Apr 17 14:21:07 2021 -0400
+
+    bumped changelog version
+
 commit 8ba7669ec2177434619d449b0190bd44ee0d2da0
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Sat Apr 17 12:08:01 2021 -0400
