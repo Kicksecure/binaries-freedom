@@ -12,7 +12,7 @@ genmkfile_lintian_post_opts+=" --suppress-tags arch-dependent-file-in-usr-share"
 genmkfile_lintian_post_opts+=" --suppress-tags spelling-error-in-binary"
 genmkfile_lintian_post_opts+=" --suppress-tags arch-independent-package-contains-binary-or-object"
 genmkfile_lintian_post_opts+=" --suppress-tags binary-has-unneeded-section"
-genmkfile_lintian_post_opts+=" --suppress-tags missing-depends-line"
+genmkfile_lintian_post_opts+=" --suppress-tags undeclared-elf-prerequisites"
 genmkfile_lintian_post_opts+=" --suppress-tags desktop-entry-lacks-keywords-entry"
 genmkfile_lintian_post_opts+=" --suppress-tags missing-dependency-on-libc"
 
