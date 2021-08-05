@@ -1,3 +1,9 @@
+binaries-freedom (0:1.9-1) unstable; urgency=medium
+
+  * New upstream version (local package).
+
+ -- Patrick Schleizer <adrelanos@whonix.org>  Thu, 05 Aug 2021 20:35:45 +0000
+
 binaries-freedom (0:1.8-1) unstable; urgency=medium
 
   * New upstream version (local package).

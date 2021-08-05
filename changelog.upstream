@@ -1,3 +1,39 @@
+commit 9822253ea8470a78891cb8277e8d37588fbb6c93
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 15:36:54 2021 -0400
+
+    lintian
+
+commit e31fb4c7f14fa64e05677ad3bdaaf5a53c5cdd35
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Wed Aug 4 15:31:20 2021 -0400
+
+    lintian
+
+commit fe520b03100f6611465b317aa5d6d472562be075
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 12:48:52 2021 -0400
+
+    move /usr/lib/helper-scripts and /usr/lib/curl-scripts to /usr/libexec/helper-scripts as per lintian FHS
+
+commit d558003b3c5bb539d63f3f86c42ae33fff392a7c
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Tue Aug 3 05:48:18 2021 -0400
+
+    bullseye
+
+commit 45b2181557af6d1c02b91ba998effdffd6f30f85
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sun Aug 1 16:24:23 2021 -0400
+
+    readme
+
+commit 4a72ef3d9ecb83fc16907c56122a20efeaf86522
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Jun 24 16:06:12 2021 -0400
+
+    bumped changelog version
+
 commit f8fdbd1aedc8b2db0561d65b3512e32a6fe7b8bc
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Thu Jun 24 15:44:58 2021 -0400
