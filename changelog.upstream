@@ -1,3 +1,29 @@
+commit d98496d6403aec6a79d3dafc7c5db34194d71c4d
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Sep 2 14:43:37 2021 -0400
+
+    readme
+
+commit 3cca621377fe9191e45ac40eecacbc45a702658f
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Sep 2 14:43:37 2021 -0400
+
+    add debian install file (generated using "genmkfile debinstfile")
+
+commit 86223e3cbb5c6aab67616201a2936266d677c6bf
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Sep 2 14:42:51 2021 -0400
+
+    binaries-freedom is an empty package at this time
+    
+    https://forums.whonix.org/t/policy-for-inclusion-of-compiled-software/6635
+
+commit c3e7f3e17cc4e545653a44effaf29dd5274af1d7
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Thu Aug 5 16:35:45 2021 -0400
+
+    bumped changelog version
+
 commit 9822253ea8470a78891cb8277e8d37588fbb6c93
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Wed Aug 4 15:36:54 2021 -0400
