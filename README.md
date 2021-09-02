@@ -1,10 +1,8 @@
 # Freedom Software Binaries #
 
-Currently only contains the electrum appimage.
+This is an empty package at this time.
 
 https://forums.whonix.org/t/policy-for-inclusion-of-compiled-software/6635
-
-This package is produces independently of electrum.
 ## How to install `binaries-freedom` using apt-get ##
 
 1\. Download Whonix's Signing Key.
