@@ -16,8 +16,6 @@ Package: binaries-freedom
 Architecture: all
 Depends: fuse, ${shlibs:Depends}, ${misc:Depends}
 Description: Freedom Software Binaries
- Currently only contains the electrum appimage.
+ This is an empty package at this time.
  .
  https://forums.whonix.org/t/policy-for-inclusion-of-compiled-software/6635
- .
- This package is produces independently of electrum.
