@@ -6,8 +6,6 @@
 genmkfile_lintian_post_opts+=" --suppress-tags source-contains-prebuilt-binary"
 genmkfile_lintian_post_opts+=" --suppress-tags source-is-missing"
 genmkfile_lintian_post_opts+=" --suppress-tags obsolete-url-in-packaging"
-genmkfile_lintian_post_opts+=" --suppress-tags wildcard-matches-nothing-in-dep5-copyright"
-genmkfile_lintian_post_opts+=" --suppress-tags unused-file-paragraph-in-dep5-copyright"
 genmkfile_lintian_post_opts+=" --suppress-tags arch-dependent-file-in-usr-share"
 genmkfile_lintian_post_opts+=" --suppress-tags spelling-error-in-binary"
 genmkfile_lintian_post_opts+=" --suppress-tags arch-independent-package-contains-binary-or-object"
@@ -15,6 +13,9 @@ genmkfile_lintian_post_opts+=" --suppress-tags binary-has-unneeded-section"
 genmkfile_lintian_post_opts+=" --suppress-tags undeclared-elf-prerequisites"
 genmkfile_lintian_post_opts+=" --suppress-tags desktop-entry-lacks-keywords-entry"
 genmkfile_lintian_post_opts+=" --suppress-tags missing-dependency-on-libc"
+genmkfile_lintian_post_opts+=" --suppress-tags superfluous-file-pattern"
+genmkfile_lintian_post_opts+=" --suppress-tags very-long-line-length-in-source-file"
+genmkfile_lintian_post_opts+=" --suppress-tags update-debian-copyright"
 
 ## Not an upstream man page.
 genmkfile_lintian_post_opts+=" --suppress-tags maintainer-manual-page"
