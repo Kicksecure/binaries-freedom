@@ -1,3 +1,15 @@
+commit 99d8897da344f9eac73e659434512764923e0fd2
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Sat Nov 11 13:51:38 2023 -0500
+
+    remove obsolete file - no licensing change
+
+commit f8f056a6a9086287ed9e9d5e975ac92af6cbd73e
+Author: Patrick Schleizer <adrelanos@whonix.org>
+Date:   Mon Jul 17 11:32:23 2023 -0400
+
+    bumped changelog version
+
 commit c175755fd5b80a2b7c559c086da04d91ca03d2dd
 Author: Patrick Schleizer <adrelanos@whonix.org>
 Date:   Mon Jul 17 11:17:18 2023 -0400
